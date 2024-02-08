@@ -113,7 +113,7 @@ const SignUpPage = () => {
                         {errors.password?.message}
                     </p>
                     <p className='text-[12px] text-center my-2'>People who use our service may have uploaded your contact information to Instagram. Learn more</p>
-                    <p className='text-[12px] text-center ' >By signing up, you agree to our Terms, Privacy Policy and Cookies Policy.</p>
+                    <p className='text-[12px] text-center mb-4 ' >By signing up, you agree to our Terms, Privacy Policy and Cookies Policy.</p>
                     <button type='submit'
                         className={`h-[35px] w-[100%] text-[11px] pl-2 border 
                         rounded-lg outline-none bg-[#4cb5f9] flex justify-center
